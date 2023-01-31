@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Awashcard0
-- 👀 I’m interested in things
+- 👀 I’m interested in html and javaScript
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on stuff and things
-- 📫 How to reach me (You dont)
+- 📫 How to reach me on discord: Awashcard0#0001
 
 <!---
 Awashcard0/Awashcard0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
