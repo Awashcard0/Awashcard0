@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Awashcard0
 - 👀 I’m interested in html and javaScript
-- 🌱 I’m currently learning python or java
+- 🌱 I want learn python or java
 - 💞️ I’m looking to collaborate on stuff and things
 - 📫 How to reach me on discord: [awashcard0](https://discord.com/users/598999688103985223)
 
